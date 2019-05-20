@@ -1,0 +1,10 @@
+# Root project information
+sonar.projectKey=com.miller:pocJenkinsProject
+sonar.projectName=POCJenkinsProject
+sonar.projectVersion=1.0
+
+sonar.modules=example,unusual-spending-vendor,unusual-spending,example-cucumber,bank-ocr,selenium,gilded-rose,game-of-life
+
+sonar.sources=src
+sonar.sourceEncoding=UTF-8
+sonar.language=java
